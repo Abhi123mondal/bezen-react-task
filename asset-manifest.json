@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bezen-react-task/static/css/main.03cea157.css",
+    "main.js": "/bezen-react-task/static/js/main.d63b7c07.js",
+    "static/js/787.4984737a.chunk.js": "/bezen-react-task/static/js/787.4984737a.chunk.js",
+    "index.html": "/bezen-react-task/index.html",
+    "main.03cea157.css.map": "/bezen-react-task/static/css/main.03cea157.css.map",
+    "main.d63b7c07.js.map": "/bezen-react-task/static/js/main.d63b7c07.js.map",
+    "787.4984737a.chunk.js.map": "/bezen-react-task/static/js/787.4984737a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03cea157.css",
+    "static/js/main.d63b7c07.js"
+  ]
+}
