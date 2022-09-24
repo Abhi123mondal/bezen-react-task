@@ -4,7 +4,9 @@ import { MdDelete} from "react-icons/md";
 import {BsPinAngleFill} from "react-icons/bs";
 import {RiEditBoxFill} from "react-icons/ri";
 
-function Note({ title, content, onDelete,onEdit , id }) {
+function Note({ title, content, onDelete ,onEdit, id }) {
+
+  
   return (
     <div className="note">
       <h1>{title}<span> <button><BsPinAngleFill size={25}/></button></span></h1>
